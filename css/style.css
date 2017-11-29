@@ -56,5 +56,33 @@ section {
       margin-left: 1.875rem;
       padding-top: .3rem;
       font-size: .36rem; }
+    section .box .inp {
+      width: 100%;
+      height: 2rem;
+      margin-left: -1.5rem; }
+      section .box .inp p {
+        width: 100%;
+        height: .9rem; }
+        section .box .inp p img {
+          width: 5%;
+          height: 20%; }
+        section .box .inp p input {
+          border: none;
+          outline: none;
+          width: 80%;
+          height: 100%;
+          border-bottom: 1px solid #ccc;
+          margin-left: .3rem; }
+    section .box button {
+      width: 90%;
+      height: 1rem;
+      margin-top: 2rem;
+      margin-left: 5%;
+      background: green;
+      border: none;
+      outline: none;
+      border-radius: 6px;
+      color: #fff;
+      font-size: .36rem; }
 
 /*# sourceMappingURL=style.css.map */
